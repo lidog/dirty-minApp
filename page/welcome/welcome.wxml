@@ -1,0 +1,9 @@
+<view class='content'>
+  <view class='img'>
+    <image src='/images/avatar/avatar-1.png'></image>
+  </view>
+  <text class='hello'>hello lzh</text>
+  <view catchtap='onTapJump' class='btn'>
+    <text>开启我的第一个小程序</text>
+  </view>
+</view>

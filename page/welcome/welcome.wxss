@@ -1,0 +1,20 @@
+page{
+  
+}
+.content{
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  text-align: center;
+  padding: 1rem;
+}
+.img{
+  width: 200rpx;
+  height:200rpx; 
+  border-radius: 50%;
+  margin-bottom: 1rem;
+  overflow: hidden;
+}
+.hello{
+  margin:2rem 0;
+}

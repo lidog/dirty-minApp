@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "page/welcome/welcome",
+    "page/post/post",
+    "page/postDetail/postDetail",
+    "page/postComment/postComment"
+  ],
+  "window":{
+    "navigationBarTitleText":"黎镇华.日记"
+  }
+}
